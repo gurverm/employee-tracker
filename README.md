@@ -3,6 +3,7 @@
 
 ## Description
 A command line application that allows users to view their company departments, employees, and roles. Users may also add new objects to these given categories if desired.
+This application uses mysql, and nodejs.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -11,7 +12,8 @@ A command line application that allows users to view their company departments, 
 4. [Questions](#questions)
 
 ## Installation
-Once the repository has been cloned and the user is in the correct integrated terminal, simply run 'npm install' followed by 'node index.js' to begin using the application
+This application requires the installation of mysql and nodejs.
+Once the repository has been cloned users must first enter their mysql password into the connection.js file. Next the user will open the correct integrated terminal, simply run 'npm install' followed by 'node index.js' to begin using the application
 
 ## Usage
 Below is a demonstration of how a user would be expected to use the application as per the installation instruction.
